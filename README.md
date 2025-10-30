@@ -1,4 +1,4 @@
-##Training-Project-2-Calculator
+# Training-Project-2-Calculator
 
 This project serves as a practical application of foundational web development skills, making it a valuable learning experience for aspiring developers.
 
